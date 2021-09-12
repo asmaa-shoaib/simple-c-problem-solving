@@ -1,0 +1,16 @@
+D:\ITI\Training\problem solving\D2\Day2\Day2\bin\Debug\net5.0\Day2.exe
+D:\ITI\Training\problem solving\D2\Day2\Day2\bin\Debug\net5.0\Day2.deps.json
+D:\ITI\Training\problem solving\D2\Day2\Day2\bin\Debug\net5.0\Day2.runtimeconfig.json
+D:\ITI\Training\problem solving\D2\Day2\Day2\bin\Debug\net5.0\Day2.runtimeconfig.dev.json
+D:\ITI\Training\problem solving\D2\Day2\Day2\bin\Debug\net5.0\Day2.dll
+D:\ITI\Training\problem solving\D2\Day2\Day2\bin\Debug\net5.0\ref\Day2.dll
+D:\ITI\Training\problem solving\D2\Day2\Day2\bin\Debug\net5.0\Day2.pdb
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\Day2.csproj.AssemblyReference.cache
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\Day2.AssemblyInfoInputs.cache
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\Day2.AssemblyInfo.cs
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\Day2.csproj.CoreCompileInputs.cache
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\Day2.dll
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\ref\Day2.dll
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\Day2.pdb
+D:\ITI\Training\problem solving\D2\Day2\Day2\obj\Debug\net5.0\Day2.genruntimeconfig.cache
